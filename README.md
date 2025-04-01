@@ -1,2 +1,1 @@
-# valuefunctions
-exploring value and policy functions
+This whole project was based on one of the videos
